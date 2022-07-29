@@ -16,14 +16,17 @@ header {
   text-align: center;
   position: relative;
 }
-.social i {
-  display:inline-blook;
+.fab {
+  font-size: 32px;
+}
+.position i {
+  display: inline-block;
   margin-left: 20px;
 }
-.social {
-  position: absolute;
-  top: 22px;
-  right: 22px;
+.position {
+  position:absolute;
+  top: 40px;
+  right: 40px;
 }
 header .heading {
   font-size: 32px;
