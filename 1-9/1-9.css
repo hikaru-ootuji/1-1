@@ -40,6 +40,17 @@ main {
   background-position: bottom;
   background-size: cover;
 }
+@media screen and (max-width:768px){
+  main {
+    width: 100%;
+    display: block;
+  }
+  .step-box {
+    width: 90%;
+    margin: 20px;
+  }
+}
+
 .step-num {
   position:absolute;
   top: 0;
